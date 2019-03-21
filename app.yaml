@@ -4,5 +4,5 @@ api_version: 1
 runtime: python
 
 handlers:
--url: .*
+- url: .*
 script: main.py
